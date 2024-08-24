@@ -2,7 +2,6 @@
 
 Welcome to the **School Management System**! This project is a comprehensive solution designed to manage all aspects of a school, including student records, staff management, attendance tracking, and more. This system streamlines administrative processes, making it easier to manage day-to-day school operations efficiently.
 
-![School Management System](https://sms-next.vercel.app/)
 
 ## 🚀 Features
 
