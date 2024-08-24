@@ -1,26 +1,36 @@
-# Lama Dev School Management Dashboard
+# 🎓 School Management System
 
-## Getting Started
+Welcome to the **School Management System**! This project is a comprehensive solution designed to manage all aspects of a school, including student records, staff management, attendance tracking, and more. This system streamlines administrative processes, making it easier to manage day-to-day school operations efficiently.
 
-First, run the development server:
+![School Management System](https://sms-next.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Student Management:** Add, update, and manage student records.
+- **Staff Management:** Manage teacher and staff details.
+- **Attendance Tracking:** Track student and staff attendance.
+- **Class Scheduling:** Schedule and manage classes.
+- **Grade Management:** Record and view student grades.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠 Technologies Used
 
-## Learn More
+- **Tailwind CSS:** For styling and creating a responsive, modern UI.
+- **Next.js:** For server-side rendering and building a scalable React application.
+- **React Charts:** For visualizing data with interactive charts.
 
-To learn more about Next.js, take a look at the following resources:
+## 📦 Installation
 
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)
+To get started with the School Management System, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone "git@github.com:abhudi/sms-software.git"
+
+
+
+📧 Contact
+For any inquiries, please contact:
+
+Email: deshmukhabhishek7020@gmail.com
+GitHub: abhudi
